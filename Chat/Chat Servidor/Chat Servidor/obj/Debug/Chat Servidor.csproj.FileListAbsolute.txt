@@ -1,0 +1,12 @@
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Servidor\Chat Servidor\bin\Debug\Chat Servidor.exe.config
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Servidor\Chat Servidor\bin\Debug\Chat Servidor.exe
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Servidor\Chat Servidor\bin\Debug\Chat Servidor.pdb
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Servidor\Chat Servidor\obj\Debug\Chat Servidor.csprojResolveAssemblyReference.cache
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Servidor\Chat Servidor\obj\Debug\Chat Servidor.exe
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Servidor\Chat Servidor\obj\Debug\Chat Servidor.pdb
+C:\Users\DTI\Desktop\3\Chat Servidor\Chat Servidor\bin\Debug\Chat Servidor.exe.config
+C:\Users\DTI\Desktop\3\Chat Servidor\Chat Servidor\obj\Debug\Chat Servidor.exe
+C:\Users\DTI\Desktop\3\Chat Servidor\Chat Servidor\obj\Debug\Chat Servidor.pdb
+C:\Users\DTI\Desktop\3\Chat Servidor\Chat Servidor\bin\Debug\Chat Servidor.exe
+C:\Users\DTI\Desktop\3\Chat Servidor\Chat Servidor\bin\Debug\Chat Servidor.pdb
+C:\Users\DTI\Desktop\3\Chat Servidor\Chat Servidor\obj\Debug\Chat Servidor.csprojResolveAssemblyReference.cache

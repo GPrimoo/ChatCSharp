@@ -1,0 +1,20 @@
+c:\users\gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\bin\Debug\Chat Cliente.exe.config
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat_Cliente.Form1.resources
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat_Cliente.Form2.resources
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat_Cliente.Properties.Resources.resources
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.csproj.GenerateResource.Cache
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\bin\Debug\Chat Cliente.exe
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\bin\Debug\Chat Cliente.pdb
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.exe
+C:\Users\Gustavo\documents\visual studio 2015\Projects\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.pdb
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\bin\Debug\Chat Cliente.exe.config
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.exe
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.pdb
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\bin\Debug\Chat Cliente.exe
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\bin\Debug\Chat Cliente.pdb
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.csprojResolveAssemblyReference.cache
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat_Cliente.Form1.resources
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat_Cliente.Form2.resources
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat_Cliente.Properties.Resources.resources
+C:\Users\DTI\Desktop\3\Chat Cliente\Chat Cliente\obj\Debug\Chat Cliente.csproj.GenerateResource.Cache
