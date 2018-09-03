@@ -2,13 +2,15 @@
 Chat feito em C# com Socket, utilizando conhecimentos vistos em aula para estudos.
 <hr>
 # Como funciona?
+Este é um chat que funciona em uma rede local, desenvolviedo para estudo.
+
 <h3>Servidor</h3>
 
 Primeiramente, acesse o diretório:<b> \\Chat\Chat Servidor\Chat Servidor\bin\Debug\ </b>e execute o arquivo <b>Chat Servidor.exe </b>.
 
-Logo após abrir o servidor irá aparecer uma tela para que você digite o IP do servidor, no caso o IP da máquina que está executando o servidor.
+Logo após, o servidor irá apresentar uma tela para que você digite o IP da máquina.
 
-Após digitar corretamente, selecione a opção 1 (Iniciar Servidor) e o servidor está pronto!
+Após inserir o IP, selecione a opção 1 (Iniciar Servidor) e o servidor estará funcionando!
 
 <hr>
 
