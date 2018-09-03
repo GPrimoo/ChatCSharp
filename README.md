@@ -1,7 +1,7 @@
 # ChatCSharp
 Chat feito em C# com Socket, utilizando conhecimentos vistos em aula para estudos.
 <hr>
-# Como funciona?
+<h2> Como funciona? </h2>
 Este é um chat que funciona em uma rede local, desenvolviedo para estudo.
 
 <h3>Servidor</h3>
